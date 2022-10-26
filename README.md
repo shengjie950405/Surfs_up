@@ -7,10 +7,10 @@ The goal of this project is helping my new Surf business to provide temperature 
 
 ## Results
 
-June 
+### June 
 <img width="144" alt="Screen Shot 2022-10-26 at 6 15 34 PM" src="https://user-images.githubusercontent.com/111814578/198149623-1757365d-b585-4300-a3bb-acd3b59e3d83.png">
 
-December
+### December
 <img width="131" alt="Screen Shot 2022-10-26 at 6 15 30 PM" src="https://user-images.githubusercontent.com/111814578/198149618-ca90d020-70b6-460b-a08b-c09f9ec556a8.png">
 
 - The min temperature between Dec and June is one of the key difference, which indicate that the weather risk in Dec will be higher than Jun which the temp of Dec reach to the minimum amount.
